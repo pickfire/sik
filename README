@@ -1,0 +1,23 @@
+Slide Image Kiosk
+=================
+
+Preview images with gallery and slide show with websockets.
+
+Simply image kiosk written in python3 with Sanic framework.
+
+Allows uploading and real time slide show, no offline mode.
+
+No external dependencies, only 3KB uncompressed/unminified.
+
+Why python? Time + ??? Maybe in another language next time.
+
+
+Usage
+-----
+
+    mkdir images/ thumbnails/
+    pip install -r requirements.txt
+    python3.6 ./app.py
+
+
+Demo: http://sik.pickfire.tk/

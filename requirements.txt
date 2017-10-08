@@ -1,0 +1,12 @@
+aiofiles==0.3.1
+aionotify==0.2.0
+httptools==0.0.9
+Jinja2==2.9.6
+MarkupSafe==1.0
+olefile==0.44
+Pillow==4.2.1
+sanic==0.6.0
+sanic-jinja2==0.5.5
+ujson==1.35
+uvloop==0.8.1
+websockets==3.4

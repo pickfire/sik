@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Upload</title>
+<form enctype="multipart/form-data" action="/upload" method="post">
+  <input type="file" name="f" accept="images/*" onchange="this.form.submit();" multiple>
+  <input type="submit">
+</form>
